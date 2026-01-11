@@ -30,3 +30,12 @@ I am motivated to learn new things and improve my skills through projects and pr
 
 ### 📫 Contact
 - GitHub: https://github.com/octavianramadhan1110-bit
+
+  ---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octavianramadhan1110-bit&show_icons=true&theme=dark
+)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octavianramadhan1110-bit&layout=compact)
+

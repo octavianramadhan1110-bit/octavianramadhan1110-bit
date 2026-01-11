@@ -12,11 +12,12 @@ I am motivated to learn new things and improve my skills through projects and pr
 
 ---
 
-### 🛠️ Skills
-- HTML
-- CSS
-- Bootstrap
-- Git & GitHub
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ---
 
